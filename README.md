@@ -11,11 +11,19 @@ My name is Nic(k), and I'm an AMAB hetero he/him, tinkering with code on the sid
 - SharePoint Lists (Staff database)
 - Forms (Event RSVP and database correction requests)
 - Power Automate
-- - "for each" > "update item" linked to RSVP form submission
-- - inline HTML 📧
-- - 🕝 Scheduled invite sends per event allocated
-- - 🔔 Automated RSVP confirmation
+ - "for each" > "update item" linked to RSVP form submission
+ - inline HTML 📧
+ - 🕝 Scheduled invite sends per event allocated
+ - 🔔 Automated RSVP confirmation
 ## Current Side-Projects
 - 🎞️ Unlike Our Own - digital animation project [Blender]
 - 🌐 Peace and Kindness Operations - website development [CSS and HTML-only]
 - 📺 Sympatico - TV game show.
+## Hobbies and Interests
+- Trivia
+- Stand up comedy and improv
+- Bush-walks
+- Music festivals
+- 🍽️🍷🍺🍸
+ - Dining out
+ - Cooking for visitors and parties
