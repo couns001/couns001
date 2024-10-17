@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**couns001/couns001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋
+My name is Nic(k), and I'm an AMAB hetero he/him, tinkering with code on the side in Naarm, Australia.
+## Current Occupation
+📢 Communication and Engagement - Monash Health
+- Digital and Live Event Production
+- Corporate Communications
+### Current Project
+**🏆 Length of Service Awards 2024**
+(Created from scratch)
+- Custom SharePoint site
+- SharePoint Lists (Staff database)
+- Forms (Event RSVP and database correction requests)
+- Power Automate
+- - "for each" > "update item" linked to RSVP form submission
+  - inline HTML 📧
+  - - 🕝 Scheduled invite sends per event allocated
+    - 🔔 Automated RSVP confirmation
+## Current Side-Projects
+- 🎞️ Unlike Our Own - digital animation project [Blender]
+- 🌐 Peace and Kindness Operations - website development [CSS and HTML-only]
+- 📺 Sympatico - TV game show.
