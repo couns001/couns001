@@ -3,11 +3,11 @@ My name is Nic(k), and I'm an AMAB hetero he/him, living an AuDHD life in Naarm,
 
 📧 Email me: [couns001@gmail.com](mailto:couns001@gmail.com)
 ## Current Occupation
-**📢 Communication and Engagement - Monash Health**
+### 📢 Communication and Engagement - Monash Health
 - Digital and Live Event Production
 - Corporate Communications
-### Current Project
-#### 🏆 Length of Service Awards 2024
+#### Current Project
+##### 🏆 Length of Service Awards 2024
 *all items created from scratch*
 - Custom SharePoint site
 - SharePoint Lists (Staff database)
@@ -19,7 +19,7 @@ My name is Nic(k), and I'm an AMAB hetero he/him, living an AuDHD life in Naarm,
  - 🔔 Automated RSVP confirmation
 ## Current Side-Projects
 - 🎞️ Unlike Our Own - digital animation project (Blender)
-- 🌐 Peace and Kindness Operations - website development (HTML, CSS, minimal JS)
+- 🌐 Peace and Kindness Operations: [PKOPZ](https://pkopz.vercel.app) - hand-coded fashion website (HTML, CSS, as little JS as I can get away with)
 - 📺 Sympatico - TV game show.
 ## Hobbies and Interests
 - Trivia
