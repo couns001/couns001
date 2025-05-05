@@ -41,9 +41,9 @@ Second, yes, but even this stuff is pretty nerdy.
 * Music festivals
 * Karaoke
 * 🍽️🍷🍺🍸
- * Dining out
- * Cooking for friends and family
- * ex waiter, chef, bartender
+  * Dining out
+  * Cooking for friends and family
+  * ex waiter, chef, bartender
 ## A list of lists (that I'll include in a future update)
 * Goodreads (coming soon!)
 * [Letterboxd](https://boxd.it/E70sE$K2bMGXl7YSeK2EZ2)
